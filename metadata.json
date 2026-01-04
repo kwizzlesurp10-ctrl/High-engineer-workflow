@@ -1,0 +1,5 @@
+{
+  "name": "GeoScale 2025 Architecture Explorer",
+  "description": "An interactive deep-dive into high-scale real-time location-based service (LBS) backend architecture, featuring real-time data flow visualizations and an AI architectural assistant.",
+  "requestFramePermissions": []
+}
